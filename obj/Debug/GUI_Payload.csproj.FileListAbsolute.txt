@@ -1,0 +1,42 @@
+C:\Users\Jayee Li\Desktop\OSU\Capstone\USLI_Payload_2019\GUI_Payload\bin\Debug\GUI_Payload.exe.config
+C:\Users\Jayee Li\Desktop\OSU\Capstone\USLI_Payload_2019\GUI_Payload\bin\Debug\GUI_Payload.exe
+C:\Users\Jayee Li\Desktop\OSU\Capstone\USLI_Payload_2019\GUI_Payload\bin\Debug\GUI_Payload.pdb
+C:\Users\Jayee Li\Desktop\OSU\Capstone\USLI_Payload_2019\GUI_Payload\bin\Debug\AForge.dll
+C:\Users\Jayee Li\Desktop\OSU\Capstone\USLI_Payload_2019\GUI_Payload\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Jayee Li\Desktop\OSU\Capstone\USLI_Payload_2019\GUI_Payload\bin\Debug\AForge.Video.dll
+C:\Users\Jayee Li\Desktop\OSU\Capstone\USLI_Payload_2019\GUI_Payload\bin\Debug\AForge.xml
+C:\Users\Jayee Li\Desktop\OSU\Capstone\USLI_Payload_2019\GUI_Payload\bin\Debug\AForge.Video.xml
+C:\Users\Jayee Li\Desktop\OSU\Capstone\USLI_Payload_2019\GUI_Payload\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Jayee Li\Desktop\OSU\Capstone\USLI_Payload_2019\GUI_Payload\obj\Debug\GUI_Payload.csprojAssemblyReference.cache
+C:\Users\Jayee Li\Desktop\OSU\Capstone\USLI_Payload_2019\GUI_Payload\obj\Debug\GUI_Payload.Form1.resources
+C:\Users\Jayee Li\Desktop\OSU\Capstone\USLI_Payload_2019\GUI_Payload\obj\Debug\GUI_Payload.Properties.Resources.resources
+C:\Users\Jayee Li\Desktop\OSU\Capstone\USLI_Payload_2019\GUI_Payload\obj\Debug\GUI_Payload.csproj.GenerateResource.cache
+C:\Users\Jayee Li\Desktop\OSU\Capstone\USLI_Payload_2019\GUI_Payload\obj\Debug\GUI_Payload.csproj.CopyComplete
+C:\Users\Jayee Li\Desktop\OSU\Capstone\USLI_Payload_2019\GUI_Payload\obj\Debug\GUI_Payload.exe
+C:\Users\Jayee Li\Desktop\OSU\Capstone\USLI_Payload_2019\GUI_Payload\obj\Debug\GUI_Payload.pdb
+C:\Users\miloa\OneDrive\Documents\PaloadGUI\GUI_Payload\bin\Debug\GUI_Payload.exe.config
+C:\Users\miloa\OneDrive\Documents\PaloadGUI\GUI_Payload\bin\Debug\GUI_Payload.exe
+C:\Users\miloa\OneDrive\Documents\PaloadGUI\GUI_Payload\bin\Debug\GUI_Payload.pdb
+C:\Users\miloa\OneDrive\Documents\PaloadGUI\GUI_Payload\bin\Debug\AForge.xml
+C:\Users\miloa\OneDrive\Documents\PaloadGUI\GUI_Payload\bin\Debug\AForge.Video.xml
+C:\Users\miloa\OneDrive\Documents\PaloadGUI\GUI_Payload\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\miloa\OneDrive\Documents\PaloadGUI\GUI_Payload\obj\Debug\GUI_Payload.csprojAssemblyReference.cache
+C:\Users\miloa\OneDrive\Documents\PaloadGUI\GUI_Payload\obj\Debug\GUI_Payload.Form1.resources
+C:\Users\miloa\OneDrive\Documents\PaloadGUI\GUI_Payload\obj\Debug\GUI_Payload.Properties.Resources.resources
+C:\Users\miloa\OneDrive\Documents\PaloadGUI\GUI_Payload\obj\Debug\GUI_Payload.csproj.GenerateResource.cache
+C:\Users\miloa\OneDrive\Documents\PaloadGUI\GUI_Payload\obj\Debug\GUI_Payload.csproj.CopyComplete
+C:\Users\miloa\OneDrive\Documents\PaloadGUI\GUI_Payload\obj\Debug\GUI_Payload.exe
+C:\Users\miloa\OneDrive\Documents\PaloadGUI\GUI_Payload\obj\Debug\GUI_Payload.pdb
+C:\Users\Jayee Li\Desktop\OSU\SeniorCapstone\GUI_Payload-20200219\GUI_Payload\bin\Debug\GUI_Payload.exe.config
+C:\Users\Jayee Li\Desktop\OSU\SeniorCapstone\GUI_Payload-20200219\GUI_Payload\bin\Debug\GUI_Payload.exe
+C:\Users\Jayee Li\Desktop\OSU\SeniorCapstone\GUI_Payload-20200219\GUI_Payload\bin\Debug\GUI_Payload.pdb
+C:\Users\Jayee Li\Desktop\OSU\SeniorCapstone\GUI_Payload-20200219\GUI_Payload\bin\Debug\AForge.xml
+C:\Users\Jayee Li\Desktop\OSU\SeniorCapstone\GUI_Payload-20200219\GUI_Payload\bin\Debug\AForge.Video.xml
+C:\Users\Jayee Li\Desktop\OSU\SeniorCapstone\GUI_Payload-20200219\GUI_Payload\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Jayee Li\Desktop\OSU\SeniorCapstone\GUI_Payload-20200219\GUI_Payload\obj\Debug\GUI_Payload.csprojAssemblyReference.cache
+C:\Users\Jayee Li\Desktop\OSU\SeniorCapstone\GUI_Payload-20200219\GUI_Payload\obj\Debug\GUI_Payload.Form1.resources
+C:\Users\Jayee Li\Desktop\OSU\SeniorCapstone\GUI_Payload-20200219\GUI_Payload\obj\Debug\GUI_Payload.Properties.Resources.resources
+C:\Users\Jayee Li\Desktop\OSU\SeniorCapstone\GUI_Payload-20200219\GUI_Payload\obj\Debug\GUI_Payload.csproj.GenerateResource.cache
+C:\Users\Jayee Li\Desktop\OSU\SeniorCapstone\GUI_Payload-20200219\GUI_Payload\obj\Debug\GUI_Payload.csproj.CopyComplete
+C:\Users\Jayee Li\Desktop\OSU\SeniorCapstone\GUI_Payload-20200219\GUI_Payload\obj\Debug\GUI_Payload.exe
+C:\Users\Jayee Li\Desktop\OSU\SeniorCapstone\GUI_Payload-20200219\GUI_Payload\obj\Debug\GUI_Payload.pdb
